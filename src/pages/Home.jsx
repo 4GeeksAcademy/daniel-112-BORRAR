@@ -10,6 +10,8 @@ export const Home = () => {
 			<h1>Hello Rigo!!</h1>
 			<p>
 				<img src={rigoImageUrl} />
+				<p>HOLA</p>
+				<p>Patata</p>
 			</p>
 		</div>
 	);
